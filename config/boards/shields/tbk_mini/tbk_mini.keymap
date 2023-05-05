@@ -112,7 +112,7 @@ modcp: mod_copy {
 &kp CAPS  &kp A  &kp S    &kp D   &kp F  &kp G       &kp H  &kp J     &kp K     &kp L    &kp SEMI &kp SQT
 &kp LSHFT &kp Z  &kp X    &kp C   &kp V  &kp B       &kp N  &kp M     &kp COMMA &kp DOT  &kp FSLH &kp RSHFT 
 &kp GRAVE  &kp BACKSLASH  &kp LSHFT &kp SPACE        &kp ENTER   &kp BSPC    &kp LBKT  &lt 2 RBKT          
-&kp LGUI &none	&kp LCTRL 	&kp LALT 	       &to 1   &kp RCALT &none &mo 2
+&kp LGUI &none	&kp LCTRL 	&kp LALT 	       &to 1   &kp RALT &none &mo 2
 
             >;
         };
