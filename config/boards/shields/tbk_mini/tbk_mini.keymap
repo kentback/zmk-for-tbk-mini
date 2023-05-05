@@ -107,12 +107,12 @@ modcp: mod_copy {
        default_layer {
             label = "DEFAULT";
             bindings = <
-&kp ESC &kp N1 &kp N2 &kp N3 &kp N4 &kp N5           &kp N6  &kp N7  &kp N8  &kp N9  &kp N0   &kp PLUS
+&kp ESC &kp N1 &kp N2 &kp N3 &kp N4 &kp N5           &kp N6  &kp N7  &kp N8  &kp N9  &kp N0   &kp EQUAL
 &kp TAB   &kp Q  &kp W    &kp E   &kp R   &kp T      &kp Y  &kp U     &kp I     &kp O    &kp P    &kp MINUS
 &kp CAPS  &kp A  &kp S    &kp D   &kp F  &kp G       &kp H  &kp J     &kp K     &kp L    &kp SEMI &kp SQT
 &kp LSHFT &kp Z  &kp X    &kp C   &kp V  &kp B       &kp N  &kp M     &kp COMMA &kp DOT  &kp FSLH &kp RSHFT 
 &kp GRAVE  &kp BACKSLASH  &kp LSHFT &kp SPACE        &kp ENTER   &kp BSPC    &kp LBKT  &lt 2 RBKT          
-&kp LALT &none	&kp LCTRL 	&kp LGUI 	       &to 1   &kp RCTRL &none &mo 2
+&kp LGUI &none	&kp LCTRL 	&kp LALT 	       &to 1   &kp RCALT &none &mo 2
 
             >;
         };
