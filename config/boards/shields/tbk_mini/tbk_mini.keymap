@@ -76,27 +76,6 @@ modcp: mod_copy {
         };
          
     };
-    
-    combos {
-        compatible = "zmk,combos";
-        combo_esc {
-            timeout-ms = <50>;
-            key-positions = <14 15>;
-            bindings = <&kp ESC>;
-        };
-        
-         combo_LSHFT {
-            timeout-ms = <50>;
-            key-positions = <26 27>;
-            bindings = <&kp  LSHFT>;
-        };
-        
-            combo_LGUI {
-            timeout-ms = <50>;
-            key-positions = <38 39>;
-            bindings = <&kp LGUI>;
-        };
-        
    
           
   };
