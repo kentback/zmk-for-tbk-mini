@@ -77,8 +77,7 @@ modcp: mod_copy {
          
     };
    
-          
-  };
+         
 
 
     keymap {
